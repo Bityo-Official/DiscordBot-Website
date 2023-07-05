@@ -8,7 +8,7 @@ const Home = () => {
         <title>Bityo Discord Bot</title>
       </Head>
       <div className="text-3xl text-center text-black dark:text-white">
-        <span>Bityo 是您的最佳夥伴！</span>
+        <h2>Bityo 是您的最佳夥伴！</h2>
       </div>
     </>
   )

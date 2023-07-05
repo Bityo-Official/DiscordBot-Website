@@ -56,7 +56,7 @@ const Navbar = () => {
                 className="mr-10 text-base font-normal hover:text-black/70 dark:hover:text-white/70 flex"
               >
                 <FontAwesomeIcon icon={link.icon} className="w-5 pr-1" />
-                {link.title}
+                <p>{link.title}</p>
               </Link>
             </div>
           ))}
